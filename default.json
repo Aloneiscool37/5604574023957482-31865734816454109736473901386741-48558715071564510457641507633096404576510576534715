@@ -1,0 +1,55 @@
+{
+    "token": "MTAzNjEzODM0MTgyMjg5ODI5OA.GGHgcg.e6wQ0mC-RQLYi1tc66bIbVS6_2Ne6T9UYtu5LQ",
+    "permissions": [
+        "1000778713534828735",
+		"1039041791904731137"
+    ],
+    "bomb_messages": {
+        "random": 10,
+        "fixed": [
+            "fixed 1",
+            "fixed 2",
+            "fixed 3",
+            "ezzzzz",
+            "There's Nigglets here",
+            "Nigger",
+            "Kill all Niggers",
+            "fixed 6",
+            "fixed 7"
+        ]
+    },
+    "webhook_spam": {
+        "usernames": [
+            "\u200b",
+            "Nigger killer",
+            "Fag control"
+        ],
+        "pfp_urls": [
+            null,
+            "https://cdn.discordapp.com/attachments/1031309129161125930/1036731523606515753/BC6F8A92-6AA7-4337-A8D9-8F535390DBD9.jpg",
+            "https://cdn.discordapp.com/attachments/1031309129161125930/1036731524281802802/CHALLENGE.jpg",
+			"https://cdn.discordapp.com/attachments/1046880549148565716/1047968013409845398/unknown-6.png",
+			"https://cdn.discordapp.com/attachments/1046880549148565716/1047968012948492429/IMG_4653.jpg",
+			"https://cdn.discordapp.com/attachments/1046880549148565716/1047968012633899099/photo_2022-11-23_05-08-25.jpg"
+        ],
+        "contents": [
+            "@everyone Hello XD-Nuker was here",
+            "@everyone XD-Nuker on top",
+			"@everyone nuked fags moment",
+			"@everyone imagine getting fucking nuked you fags",
+			"@everyone niggers moment",
+		    "@everyone Nigglet Control owns you",
+			"@everyone Jews should die"
+        ]
+    },
+    "bot_permission": "2146958847",
+    "command_prefix": "$",
+    "bot_status": "offline",
+    "verbose": 15,
+    "after": [
+        "aCat Rip fags",
+        "aChannel Nigger",
+        "sn nuked",
+        "si https://cdn.discordapp.com/attachments/1031309129161125930/1036731748110831677/back_to_work.png"
+    ]
+}
